@@ -1,0 +1,29 @@
+{
+  "name": "vuejob",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "codemirror": "^5.65.16",
+    "codemirror-editor-vue3": "^2.5.8",
+    "core-js": "^3.8.3",
+    "luxon": "^3.4.4",
+    "v-click-outside": "^3.2.0",
+    "vue": "^3.2.13",
+    "vue-class-component": "^8.0.0-0",
+    "vue-codemirror": "^6.1.1",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-typescript": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "typescript": "~4.5.5"
+  }
+}
